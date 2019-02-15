@@ -16,4 +16,4 @@ Creates:
 - database with name `app_db`
 - database user with name `app_user` and password `app_user_password` (don't forget to change it) and all priveleges to `app_db`
 
-This environment was successfully tested with Laravel project/
+This environment was successfully tested with Laravel project.
