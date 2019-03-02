@@ -25,7 +25,7 @@
     - name: Create a webmaster user
       user:
         name: webmaster
-        password: $6$cJDXMnTAxV$GTevOqBAfgR53QjkevMIj2zEF.emTxwLDYAUJsSayPxryjnpAg7rHPZzQ9uU3VX6NKMug1hlqP7ecWdDWD17B1
+        password: $6$TDArDjR6$BQc8.pBdtwzqvQPTDyVXu5FxU/4sLY0a/b5jv2RSQWDgTlcPGlogrmI.AOPgT1kXWTyKpvUklAJwq4.5P8wWP.
         shell: /bin/bash
         state: present
         
